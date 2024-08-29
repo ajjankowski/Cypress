@@ -1,0 +1,14 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "cypress fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "open cypress": "npx cypress open"
+  },
+  "author": "Andrzej Jankowski",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
